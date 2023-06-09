@@ -35,7 +35,7 @@ Tahapan melakukan Intercept XHR:
 
 4️⃣ Urutkan data (terbesar ke terkecil) berdasarkan Change($M) untuk mendapatkan 5 Winners and Losers Billionaires
 
-<img width="958" alt="step4" src="https://github.com/Merryanty/billionaires/assets/111562115/b8407236-4ae2-43d6-920d-0d5c8973575d">
+<img width="960" alt="step4" src="https://github.com/Merryanty/billionaires/assets/111562115/512084b7-d566-4da1-9125-f7b518cee2e4">
 
 5️⃣ Urutkan data (terbesar ke terkecil) berdasarkan Final.Worth($M) untuk mendapatkan Top 5 Real Time Billionaires List
 
