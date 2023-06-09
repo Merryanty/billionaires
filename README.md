@@ -29,15 +29,12 @@ Tahapan melakukan Intercept XHR:
 3. Refresh halaman website
 4. Pilih true.json? untuk mendapatkan request URL.
 
-2️⃣ Melakukan cleaning data dengan memilih kolom yang diinginkan : Rank, Name, Last_Name, Gender, Prev.Worth($M), 
-Final.Worth($M), Source, Citizenship
+2️⃣ Cleaning data dengan memilih kolom yang diinginkan : Rank, Name, Last_Name, Gender, Prev.Worth($M), Final.Worth($M), Source, Citizenship
 
-3️⃣ Menghitung perubahan kekayaan : Change($M) = Final.Worth($M) - Prev.Worth($M)
+3️⃣ Hitung perubahan kekayaan : Change($M) = Final.Worth($M) - Prev.Worth($M)
 
-4️⃣ Mengurutkan data (terbesar ke terkecil) berdasarkan Change($M) untuk mendapatkan 
-5 winners dan losers Billionaires
+4️⃣ Urutkan data (terbesar ke terkecil) berdasarkan Change($M) untuk mendapatkan 5 winners dan losers Billionaires
 
-5️⃣ Mengurutkan data (terbesar ke terkecil) berdasarkan Final.Worth($M) untuk mendapatkan 
-Top 5 Real Time Billionaires List
+5️⃣ Urutkan data (terbesar ke terkecil) berdasarkan Final.Worth($M) untuk mendapatkan Top 5 Real Time Billionaires List
 
 ## Collection & Document
