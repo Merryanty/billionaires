@@ -53,15 +53,9 @@ Tahapan melakukan Intercept XHR:
   "Name":"Elon Musk",
   "Last_Name":"Musk",
   "Gender":"M",
-  "Prev_Worth($M)":{
-     "$numberDouble":"213539.237138"
-     },
-  "Final_Worth($M)":{
-     "$numberDouble":"220208.941"
-     },
-  "Change($M)":{
-     "$numberDouble":"6669.703862"
-     },
+  "Prev_Worth($M)":{"$numberDouble":"213539.237138"},
+  "Final_Worth($M)":{"$numberDouble":"220208.941"},
+  "Change($M)":{"$numberDouble":"6669.703862"},
   "Source":"Tesla, SpaceX",
   "Citizenship":"United States",
   "Scraping_Time":"2023-06-09"
@@ -77,15 +71,9 @@ Tahapan melakukan Intercept XHR:
   "Name":"Uday Kotak",
   "Last_Name":"Kotak",
   "Gender":"M",
-  "Prev_Worth($M)":{
-     "$numberDouble":"14344.638115"
-     },
-  "Final_Worth($M)":{
-     "$numberDouble":"14022.244"
-     },
-  "Change($M)":{
-     "$numberDouble":"-322.394115"
-     },
+  "Prev_Worth($M)":{"$numberDouble":"14344.638115"},
+  "Final_Worth($M)":{"$numberDouble":"14022.244"},
+  "Change($M)":{"$numberDouble":"-322.394115"},
   "Source":"Banking",
   "Citizenship":"India",
   "Scraping_Time":"2023-06-09"
@@ -101,15 +89,9 @@ Tahapan melakukan Intercept XHR:
   "Name":"Elon Musk",
   "Last_Name":"Musk",
   "Gender":"M",
-  "Prev_Worth($M)":{
-     "$numberDouble":"213539.237138"
-     },
-  "Final_Worth($M)":{
-     "$numberDouble":"220208.941"
-     },
-  "Change($M)":{
-     "$numberDouble":"6669.703862"
-     },
+  "Prev_Worth($M)":{"$numberDouble":"213539.237138"},
+  "Final_Worth($M)":{"$numberDouble":"220208.941"},
+  "Change($M)":{"$numberDouble":"6669.703862"},
   "Source":"Tesla, SpaceX",
   "Citizenship":"United States",
   "Scraping_Time":"2023-06-09"
