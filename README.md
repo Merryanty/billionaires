@@ -1,4 +1,4 @@
-# billionaires
+# Billionaires
 
 [![billionaires](https://github.com/Merryanty/billionaires/actions/workflows/billionaires_scrape.yml/badge.svg)](https://github.com/Merryanty/billionaires/actions/workflows/billionaires_scrape.yml)
 
