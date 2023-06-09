@@ -33,8 +33,8 @@ Tahapan melakukan Intercept XHR:
 
 3️⃣ Menghitung perubahan kekayaan : Change($M) = Final.Worth($M) - Prev.Worth($M)
 
-4️⃣ Mengurutkan data dari yang terbesar dan terkecil berdasarkan Change($M) untuk mendapatkan 5 winners dan losers Billionaires
+4️⃣ Mengurutkan data (terbesar ke terkecil) berdasarkan Change($M) untuk mendapatkan 5 winners dan losers Billionaires
 
-5️⃣ Mengurutkan data dari yang terbesar dan terkecil berdasarkan Final.Worth($M) untuk mendapatkan Top 5 Real Time Billionaires List
+5️⃣ Mengurutkan data (terbesar ke terkecil) berdasarkan Final.Worth($M) untuk mendapatkan Top 5 Real Time Billionaires List
 
 ## Collection & Document
