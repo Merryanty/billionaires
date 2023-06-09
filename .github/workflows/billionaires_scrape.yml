@@ -3,6 +3,7 @@ name: billionaires_scrape
 on:
   schedule:
     - cron: '0 5 * * *'  # every_day at  05:00 am
+  workflow_dispatch:
 
 
 jobs:
