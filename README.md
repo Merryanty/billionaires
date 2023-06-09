@@ -7,9 +7,6 @@
 <div align="justify">
 Forbes adalah salah satu majalah bisnis asal United State, bertempat di New Jersey. Forbes juga merupakan perusahaan media global, berfokus pada bisnis, investasi, teknologi, kewirausahaan, kepemimpinan, dan gaya hidup. Forbes.com merupakan platform digital dari Forbes Magazine. Forbes.com adalah bagian dari Forbes Digital, situs ini telah dikunjungi sebanyak 27 juta pengunjung setiap bulannya. Forbes.com memuat banyak menu informasi seperti money, innovation, lifestyle, billionaires, dan leadership.
 
-</div>
-
-<div align="justify">
 Forbes Real Time Billionaires
 
 url : https://www.forbes.com/real-time-billionaires/#30c587873d78
