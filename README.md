@@ -97,3 +97,6 @@ Tahapan melakukan Intercept XHR:
   "Scraping_Time":"2023-06-09"
 }
 ```
+
+## Contributor
+Merryanty Lestari P (G1501221022)
